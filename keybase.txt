@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/namisa
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://namisa.art
+  * I am namisa (https://keybase.io/namisa) on keybase.
+  * I have a public key ASDnfMlnc4ODBAgTz9YwO-2fUmShy7Byl_4XpjWU0lC2Fwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e77cc967738383040813cfd6303bed9f5264a1cbb07297fe17a63594d250b6170a",
+      "host": "keybase.io",
+      "kid": "0120e77cc967738383040813cfd6303bed9f5264a1cbb07297fe17a63594d250b6170a",
+      "uid": "4d85dcb5dc3ee4c3df8ebca7bd841e19",
+      "username": "namisa"
+    },
+    "merkle_root": {
+      "ctime": 1686966498,
+      "hash": "620bb3d3a775f5affd33f848169fe382a93d07cd098e24e7056cb8baae1b2f7d281842c236122b9e5beccd2ef3d47c738c3fc2d6261c496743bfece1777a03e8",
+      "hash_meta": "77099bcb0503951a094173f1ef9a4bbcf471540bf6e6208db582c8a764c4bdbd",
+      "seqno": 24577551
+    },
+    "service": {
+      "entropy": "UZ3jrLf76tiLFXDiMPEyh8/r",
+      "hostname": "namisa.art",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.4"
+  },
+  "ctime": 1686966508,
+  "expire_in": 504576000,
+  "prev": "66f5b8645af49a184d856fc50ac583a07d78d6c34e8c26d7f8ec0057693a7cce",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg53zJZ3ODgwQIE8/WMDvtn1Jkocuwcpf+F6Y1lNJQthcKp3BheWxvYWTESpcCCsQgZvW4ZFr0mhhNhW/FCsWDoH141sNOjCbX+OwAV2k6fM7EIIagXdXOvHpPGlnXpJ0BRCK5Lauc+rl6X+ffS8rS1a2fAgHCo3NpZ8RAaA7sTYjqIs6Qao7YP6VFQnXEZPtELAam/CvMdPXzrSuzJM+bnko8k/tM+YjcLN2M0eL/paZomzoRBM8/FJeaD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGKQLx0qyYYIfs4nilKUTsY6IutzhQmuQMVcEp0cpy20o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/namisa
+
+==================================================================
